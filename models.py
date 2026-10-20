@@ -2,6 +2,9 @@
 taskList = []
 
 def addTask(task):
-    taskList.append(task.get())
+    task_text = task.get().strip()
+    taskList.append(task_text)
     task.set("")
 
+def deleteTask(task):
+    taskList.remove(task)
