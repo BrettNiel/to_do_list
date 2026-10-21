@@ -1,7 +1,7 @@
 # Python Tkinter GUI To Do List
 
 ## Description
-My first personal project with Python. Yes it's another basic to do list (I wanted something simple that I could use quickly besides Trello)
+My first personal project with Python. Yes, it's another basic to do list (I wanted something simple that I could use quickly besides Trello)
 
 ## Requirements
 - Python 3 or higher
@@ -13,6 +13,6 @@ My first personal project with Python. Yes it's another basic to do list (I want
 2. Execute the command within the program directory
    `python3 main.py`
    
-3. Add and delete tasks via the input and remove them with the Delete button
+3. Add tasks via the input and remove them with the Delete button
 
 <img width="623" height="387" alt="image" src="https://github.com/user-attachments/assets/dd8a36bc-0434-46f5-a4c2-4ea7ae4863f4" />
